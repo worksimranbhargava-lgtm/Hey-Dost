@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#FAFAF8"/>
+  <!-- Teal body/embrace -->
+  <ellipse cx="42" cy="65" rx="28" ry="18" fill="#1B8A6B" opacity="0.9"/>
+  <path d="M20 72 Q18 48 42 44 Q68 40 66 68 Q58 80 20 72" fill="#1B8A6B" opacity="0.85"/>
+  <!-- Teal head -->
+  <circle cx="38" cy="32" r="13" fill="#1B8A6B"/>
+  <!-- Orange companion -->
+  <circle cx="62" cy="28" r="11" fill="#F59E2B"/>
+  <!-- Orange rays -->
+  <line x1="74" y1="20" x2="80" y2="14" stroke="#F59E2B" stroke-width="3" stroke-linecap="round"/>
+  <line x1="76" y1="28" x2="83" y2="28" stroke="#F59E2B" stroke-width="3" stroke-linecap="round"/>
+  <line x1="72" y1="36" x2="77" y2="42" stroke="#F59E2B" stroke-width="3" stroke-linecap="round"/>
+</svg>
